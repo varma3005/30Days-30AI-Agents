@@ -1,88 +1,93 @@
-🤖 30 AI Agents in 30 Days
-Exploring Agentic AI – One Agent at a Time 🚀
+# 🤖 30 AI Agents in 30 Days
 
-Welcome to my personal challenge:
+Build 30 real-world AI agents in 30 days — exploring Agentic AI, RAG, tool usage, memory, orchestration, and production-grade AI system design.
 
-Build 30 AI Agents in 30 Days
-Each agent explores a different concept in Agentic AI, tools, memory, reasoning, orchestration, and real-world automation.
+---
 
-This repository documents my journey of designing, building, and experimenting with autonomous AI systems.
+## 📌 Overview
 
-🎯 Why This Challenge?
+This repository documents a structured challenge to design and implement **30 independent AI agents**, each focused on a unique real-world use case or architectural concept.
 
-The future of AI is not just LLMs —
-It’s Agents that can think, decide, use tools, remember, and act.
+The goal is to deeply explore how modern AI agents:
 
-This challenge helps me:
+- Reason step-by-step  
+- Use tools dynamically  
+- Maintain memory  
+- Retrieve external knowledge  
+- Execute multi-step workflows  
+- Operate in production-style environments  
 
-Deeply understand Agentic AI architectures
+---
 
-Experiment with real-world use cases
+## 🎯 Objectives
 
-Explore tool calling, RAG, memory, orchestration
+- Build 30 functional AI agents
+- Explore diverse agent architectures
+- Implement real-world AI automation use cases
+- Understand system-level AI design patterns
+- Create a structured AI engineering portfolio
 
-Learn frameworks like Google ADK, LangChain, MCP
+---
 
-Build production-style AI systems
+## 🧠 Concepts Explored
 
-🧠 What is Agentic AI?
+Across the 30 agents, the following areas are covered:
 
-Agentic AI systems can:
+### Agent Architectures
+- Single-tool agents
+- Multi-tool agents
+- Planner–Executor systems
+- Hierarchical agents
+- Multi-agent collaboration
 
-Plan tasks
+### Core Capabilities
+- Retrieval-Augmented Generation (RAG)
+- Dynamic tool calling
+- Short-term and long-term memory
+- Context management
+- Self-reflection and iterative reasoning
+- Guardrails & safety constraints
 
-Reason step-by-step
+### System-Level Engineering
+- Observability & logging
+- Evaluation frameworks
+- Failure handling & retries
+- Rate limiting & cost optimization
+- Scalability considerations
 
-Call tools dynamically
+---
 
-Maintain memory
+## 🛠️ Tech Stack
 
-Interact with APIs
+| Category | Tools & Technologies |
+|----------|----------------------|
+| Language | Python / Node.js |
+| Frameworks | Google ADK, LangChain, Custom Orchestration |
+| LLMs | Gemini, GPT-family models, Open-source LLMs |
+| Vector Stores | FAISS, Chroma |
+| Protocols | MCP (Model Context Protocol) |
+| Deployment | Local / Cloud-based |
 
-Execute multi-step workflows
+---
 
-Self-correct
+## 🚀 End Goal
 
-This project explores all of that — practically.
+By the end of 30 days:
 
-🏗️ Core Concepts Covered
+- 30 working AI agents
+- Reusable agent templates
+- Production-ready architecture patterns
+- Strong understanding of Agentic AI systems
+- Public portfolio demonstrating applied AI engineering
 
-Across 30 days, I’ll explore:
+---
 
-🔹 Single-Tool Agents
+## 🤝 Contribution
 
-🔹 Multi-Tool Orchestration
+This project is currently a personal challenge, but feedback, suggestions, and discussions are welcome.
 
-🔹 Retrieval-Augmented Generation (RAG)
+---
 
-🔹 Memory-based Agents
+## 📄 License
 
-🔹 API-integrated Agents
-
-🔹 Workflow Automation Agents
-
-🔹 MCP (Model Context Protocol) based systems
-
-🔹 AgenticOps concepts
-
-🔹 Evaluation & Observability
-
-🔹 Guardrails & Safety
-
-🛠️ Tech Stack
-
-Depending on the agent, I’ll experiment with:
-
-Language: Python / Node.js
-
-Frameworks: Google ADK, LangChain, Custom Orchestration
-
-LLMs: Gemini, GPT, Open Models
-
-Vector Stores: FAISS, Chroma
-
-Embeddings: Model-based embeddings
-
-Protocols: MCP (Model Context Protocol)
-
-Deployment: Local, Cloud-based
+MIT License — free to use and modify.
